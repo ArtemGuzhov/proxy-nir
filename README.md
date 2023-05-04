@@ -1,9 +1,9 @@
 # App
-cd /app
-npm i
-npm run start
+- cd /app
+- npm i
+- npm run start
 
 # Proxy
-cd /proxy
-npm i
-npm run start
+- cd /proxy
+- npm i
+- npm run start
